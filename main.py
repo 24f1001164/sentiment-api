@@ -6,7 +6,7 @@ import time
 import uuid
 
 # Replace with your actual email (must exactly match your login email)
-EMAIL = "bhaktip.patel231@gmail.com"
+EMAIL = "24f1001164@ds.study.iitm.ac.in"
 
 ALLOWED_ORIGIN = "https://dash-8c265u.example.com"
 
